@@ -1,0 +1,191 @@
+# Bitcoin Puzzle - All Unsolved Addresses (67-69, 71-160)
+# Puzzles 1-66 and 70 have been solved
+# Source: https://privatekeys.pw/puzzles/bitcoin-puzzle-tx
+
+# Puzzle 67 - 0.67 BTC - Range: 2^66 to 2^67-1
+1BY8GQbnueYofwSuFAT3USAhGjPrkxDdW9
+# Puzzle 68 - 0.68 BTC - Range: 2^67 to 2^68-1
+1MVDYgVaSN6iKKEsbzRUAYFrYJadLYZvvZ
+# Puzzle 69 - 0.69 BTC - Range: 2^68 to 2^69-1
+19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG
+# Puzzle 71 - 0.71 BTC - Range: 2^70 to 2^71-1
+1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU
+# Puzzle 72 - 0.72 BTC - Range: 2^71 to 2^72-1
+1JTK7s9YVYywfm5XUH7RNhHJH1LshCaRFR
+# Puzzle 73 - 0.73 BTC
+12VVRNPi4SJqUTsp6FmqDqY5ehwLHBGiYj
+# Puzzle 74 - 0.74 BTC
+1FWGcVDK3JGzCC3WtkYetULPszMaK2Jksv
+# Puzzle 75 - 0.75 BTC
+1J36UjUByGroXcCvmj13U6uwaVv9caEeAt
+# Puzzle 76 - 0.76 BTC
+1DJh2eHFYQfACPmrvpyWc8MSTYKh7w9eRF
+# Puzzle 77 - 0.77 BTC
+1Bxk4CQdqL9p22JEtDfdXMsng1XacifUtE
+# Puzzle 78 - 0.78 BTC
+15qF6X51huDjqTmF9BJgxXdt1xcj46Jmhb
+# Puzzle 79 - 0.79 BTC
+1ARk8HWJMn8js8tQmGUJeQHjSE7KRkn2t8
+# Puzzle 80 - 0.80 BTC
+1BCf6rHUW6m3iH2ptsvnjgLruAiPQQepLe
+# Puzzle 81
+15qsCm78whspNQFydGJQk5rexzxTQopnHZ
+# Puzzle 82
+13zYrYhhJxp6Ui1VV7pqa5WDhNWM45ARAC
+# Puzzle 83
+14MdEb4eFcT7MVoVBNbB7Xwf7ufVuDfNLT
+# Puzzle 84
+1CMq3SvFcVEcpLMuuH8PUcNiqsK1oicG2D
+# Puzzle 85
+1K3x5L6G57Y494fDqBfrojD28UJv4s5JcK
+# Puzzle 86
+1PxH3K1Shdjb7gSEoTX7UPDZ6SH4qGPrvq
+# Puzzle 87
+16AbnZjZZipwHMkYKBSfswGWRZRpHxW7aK
+# Puzzle 88
+19QciEHbGVNY4hrhfKXmcBBCrJSBZ6TaVt
+# Puzzle 89
+1L12FHH2FHjvTviyanuiFVfmzCy9XjDdv5
+# Puzzle 90
+1EzVHtmbN4fs4MiNk3ppEnKKhsmXYJ4s74
+# Puzzle 91
+1AE8NzzgKE7Yhz7BWtAcAAxiFMbPo82NB5
+# Puzzle 92
+17Q7tuG2JwFFU9rXVj3uZqRtioH3mx2Jad
+# Puzzle 93
+1K6xGMUbs6ZTXBnhw1pippqwK6wjBWtMvh
+# Puzzle 94
+15ANYzzCp5BFHcCnVFzXqyibpzgPLWaD8b
+# Puzzle 95
+18ywPwj39nGjqBrQJSzZVq2izR12MDpDr8
+# Puzzle 96
+1CaBVPrwUxbQYYswu32w7Mj4HR4maNoJSX
+# Puzzle 97
+1JWnE6p6UN7ZJBN7TtcbNDoRcjFtuDWoNL
+# Puzzle 98
+1CKCVdbDJasYmhswB6HKZHEAnNaDpK7W4n
+# Puzzle 99
+1PXv28YxmYMaB8zxrKeZBW8dt2HK7RkRPX
+# Puzzle 100
+1AcAmB6jmtU6AiEcXkmiNE9TNVPsj9DULf
+# Puzzle 101
+1EQJvpsmhazYCcKX5Au6AZmZKRnzarMVZu
+# Puzzle 102
+1CMjscKB3QW7SDyQ4c3C3DEUHiHRhiZVib
+# Puzzle 103
+18KsfuHuzQaBTNLASyj15hy4LuqPUo1FNB
+# Puzzle 104
+15EJFC5ZTs9nhsdvSUeBXjLAuYq3SWaxTc
+# Puzzle 105
+1HB1iKUqeffnVsvQsbpC6dNi1XKbyNuqao
+# Puzzle 106
+1GvgAXVCbA8FBjXfWiAms4ytFeJcKsoyhL
+# Puzzle 107
+12JzYkkN76xkwvcPT6AWKZtGX6w2LAgsJg
+# Puzzle 108
+1824ZJQ7nKJ9QFTRBqn7z7dHV5EGpzUpH3
+# Puzzle 109
+18A7NA9FTsnJxWgkoFfPAFbQzuQxpRpGBX
+# Puzzle 110
+1NeGn21dUDDeqFQ63xb2SpgUuXuBLA4WT4
+# Puzzle 111
+174SNxfqpdMGYy5YQcfLbSTK3MRNZEePoy
+# Puzzle 112
+1NLbHuJebVwUZ1XqDjsAyfTRUPwDQbemfv
+# Puzzle 113
+1MnJ6hdhvK37VLmqcdEwqC3iFxyWH2PHUV
+# Puzzle 114
+1KNRfGWw7Q9Rmwsc6NT5zsdvEb9M2Wkj5Z
+# Puzzle 115
+1PJZPzvGX19a7twf5HyD2VvNiPdHLzm9F6
+# Puzzle 116
+1GuBBhf61rnvRe4K8zu8vdQB3kHzwFqSy7
+# Puzzle 117
+17s2b9ksz5y7abUm92cHwG8jEPCzK3dLnT
+# Puzzle 118
+1GDSuiThEV64c166LUFC9uDcVdGjqkxKyh
+# Puzzle 119
+1Me3ASYt5JCTAK2XaC32RMeH34PdprrfDx
+# Puzzle 120
+1CdufMQL892A69KXgv6UNBD17ywWqYpKut
+# Puzzle 121
+1BkkGsX9ZM6iwL3zbqs7HWBV7SvosR6m8N
+# Puzzle 122
+1PXAyUB8ZoH3WD8n5zoAthYjN15yN5CVq5
+# Puzzle 123
+1AWCLZAjKbV1P7AHvaPNCKiB7ZWVDMxFiz
+# Puzzle 124
+1G6EFyBRU86sThN3SSt3GrHu1sA7w7nzi4
+# Puzzle 125
+1MZ2L1gFrCtkkn6DnTT2e4PFUTHw9gNwaj
+# Puzzle 126
+1Hz3uv3nNZzBVMXLGadCucgjiCs5W9vaGz
+# Puzzle 127
+1Fo65aKq8s8iquKTT2r7HB1RWLGKPpXUo9
+# Puzzle 128
+16zRPnT8znwq42q7XeMkZUhb1bKqgRogyy
+# Puzzle 129
+1KrU4dHE5WrW8rhWDsTRjR21r8t3dsrS3R
+# Puzzle 130
+17uDfp5r4n441xkgLFmhNoSW1KWp6xVLD
+# Puzzle 131
+13A3JrvXmvg5w9XGvyyR4JEJqiLz8ZySY3
+# Puzzle 132
+16RGFo6hjq9ym6Pj7N5H7L1NR1rVPJyw2v
+# Puzzle 133
+1UDHPdovvR985NrWSkdWQDEQ1xuRiTALq
+# Puzzle 134
+15nf31J46iLuK1ZkTnqHo7WgN5cARFK3RA
+# Puzzle 135
+1Ab4vzG6wEQBDNQM1B2bvUz4fqXXdFk2WT
+# Puzzle 136
+1Fz63c775VV9fNyj25d9Xfw3YHE6sKCxbt
+# Puzzle 137
+1QKBaU6WAeycb3DbKbLBkX7vJiaS8r42Xo
+# Puzzle 138
+1CD91Vm97mLQvXhrnoMChhJx4TP9MaQkJo
+# Puzzle 139
+15MnK2jXPqTMURX4xC3h4mAZxyCcaWWEDD
+# Puzzle 140
+13N66gCzWWHEZBxhVxG18P8wyjEWF9Yoi1
+# Puzzle 141
+1NevxKDYuDcCh1ZMMi6ftmWwGrZKC6j7Ux
+# Puzzle 142
+19GpszRNUej5yYqxXoLnbZWKew3KdVLkXg
+# Puzzle 143
+1M7ipcdYHey2Y5RZM34MBbpugghmjaV89P
+# Puzzle 144
+18MwwaKdqb9pA5DCNhPmBSfykbu2z9NPPP
+# Puzzle 145
+1LtnvNT2HFNRB24gfGnSAA9EeVCdXcgCwp
+# Puzzle 146
+1HiaTjYuRJYoVwpm5XQBi5R8CvHGy7U4nz
+# Puzzle 147
+12mDGKq63GqWPXqLB1SgVVZ7xXSLDLNfnH
+# Puzzle 148
+13DZNTsQm4oPL5PoFoS5hGCA4Cd1x3R8bD
+# Puzzle 149
+1FvaqFLrLu2KGhseMoZMQ4H1wBKMbZWVxH
+# Puzzle 150
+1Lqn9DqsK28ym8MJjbWfGJTmXVgmBCwnvV
+# Puzzle 151
+183uKbB8UfDVy4cZF7oKDVLNnoNaj1mas
+# Puzzle 152
+1NxdNwJwMpLqUGFk9iaxjnTnMqvoYPHdww
+# Puzzle 153
+1G28T34uKbPZ4BCXG6hTB3JdpfmHo4bvCF
+# Puzzle 154
+1LhRcMEvVxVcPPSdPMKtgPwqZD2wPBMYjy
+# Puzzle 155
+1ANqiCXqWYsLiE4FQo3zXhyYtmEMsKsqvH
+# Puzzle 156
+17bEJKFHBz2Djjwrg5JABxM6oQzMxFQsNU
+# Puzzle 157
+1J87A8R2jKLgz9vZVrq9BrYj1hy8n9Lj6r
+# Puzzle 158
+1DhCKNi1vFua2cJS7kigp6u53F6yAGTgH2
+# Puzzle 159
+1KkfoJn8Jp7zT15FGzXdqWW1Zz3R2AKWaW
+# Puzzle 160
+1PkJR7Y8gPAzTxHj4DjKLWZ2rBHvdxPvnB
+
