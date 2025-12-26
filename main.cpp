@@ -25,7 +25,7 @@
 #include "hash/sha512.h"
 #include "hash/sha256.h"
 
-#define RELEASE "1.19"
+#define RELEASE "1.20-puzzle"
 
 using namespace std;
 
@@ -33,7 +33,7 @@ using namespace std;
 
 void printUsage() {
 
-  printf("VanitySeacrh [-check] [-v] [-u] [-b] [-c] [-gpu] [-stop] [-i inputfile]\n");
+  printf("VanitySearch [-check] [-v] [-u] [-b] [-c] [-gpu] [-stop] [-i inputfile]\n");
   printf("             [-gpuId gpuId1[,gpuId2,...]] [-g g1x,g1y,[,g2x,g2y,...]]\n");
   printf("             [-o outputfile] [-m maxFound] [-ps seed] [-s seed] [-t nbThread]\n");
   printf("             [-nosse] [-r rekey] [-check] [-kp] [-sp startPubKey]\n");
@@ -62,6 +62,10 @@ void printUsage() {
   printf(" -rp privkey partialkeyfile: Reconstruct final private key(s) from partial key(s) info.\n");
   printf(" -sp startPubKey: Start the search with a pubKey (for private key splitting)\n");
   printf(" -r rekey: Rekey interval in MegaKey, default is disabled\n");
+  printf("\n");
+  printf("Bitcoin Puzzle Mode (new):\n");
+  printf(" -k startKey: Start key in hex format (e.g., 40000000000000000)\n");
+  printf("              Use this for Bitcoin puzzle range search\n");
   exit(0);
 
 }
@@ -400,6 +404,7 @@ int main(int argc, char* argv[]) {
   bool startPubKeyCompressed;
   bool caseSensitive = true;
   bool paranoiacSeed = false;
+  string startKeyHex = "";  // Direct hex key for puzzle mode
 
   while (a < argc) {
 
@@ -530,6 +535,10 @@ int main(int argc, char* argv[]) {
       a++;
       rekey = (uint64_t)getInt("rekey", argv[a]);
       a++;
+    } else if (strcmp(argv[a], "-k") == 0) {
+      a++;
+      startKeyHex = string(argv[a]);
+      a++;
     } else if (strcmp(argv[a], "-h") == 0) {
       printUsage();
     } else if (a == argc - 1) {
@@ -567,7 +576,7 @@ int main(int argc, char* argv[]) {
   }
 
   VanitySearch *v = new VanitySearch(secp, prefix, seed, searchMode, gpuEnable, stop, outputFile, sse,
-    maxFound, rekey, caseSensitive, startPuKey, paranoiacSeed);
+    maxFound, rekey, caseSensitive, startPuKey, paranoiacSeed, startKeyHex);
   v->Search(nbCPUThread,gpuId,gridSize);
 
   return 0;
